@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 40px;
+    background-color: royalblue;
+}
+
+header {
+    margin:20px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color:black;
+    text-shadow: darkgray 2px 2px 0px;
+    padding: 4px;
+    font-size: 60px;
+    border-bottom: 2px solid black;
+}
+
+h3 {
+    color: black;
+}
+
+.h4 {
+    color: black;
+    margin-top: 40px;
+}
+
+.card {
+    margin-top: 20px;
+    border: 1.5px solid black;
+    border-radius: 20px;
+    margin-right: 4px;
+    text-align: center;
+}
+
+.uv {
+    padding: 2px;
+}
+.success {
+    background-color: green;
+    display: inline-block;
+}
+.warning{
+    background-color: yellow;
+    display: inline-block;
+}
+.danger{
+    background-color: red;
+    display: inline-block;
+}
+
+#search-button {
+    margin-top: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: black;
+    font-size: 18px;
+}
+
+.border {
+    border-top: 1px solid black;
+}
+
+#search-input {
+    margin-top: 20px;
+    width: 100%;
+}
+
+#search-form {
+    margin-top: 30px;
+    font-weight: 400px;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: darkgray;
+}
+
+.save {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+
+.card-1 {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-color: darkgray;
+}
+
+#display-today {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
